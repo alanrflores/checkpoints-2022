@@ -1,5 +1,9 @@
 # HENRY CHALLENGE - JavaScript
 
+<img src="https://user-images.githubusercontent.com/51032817/167303125-d7d6b413-193c-4e08-9c7e-d4779841305d.jpg" alt="test"/>
+![resultado de test](https://user-images.githubusercontent.com/51032817/167303125-d7d6b413-193c-4e08-9c7e-d4779841305d.jpg)
+
+
 ### Bienvenido al Henry Challenge sobre JavaScript para la carrera Full Stack Developer.
 
 <p style="color:#f92850; font-size: 16px; text-align:center;">¡ Por favor lee TODO este material con atención !</p>
